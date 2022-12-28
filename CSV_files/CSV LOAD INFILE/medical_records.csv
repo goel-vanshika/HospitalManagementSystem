@@ -1,0 +1,36 @@
+﻿Patient_id,Patient_name,Doctor_id,Medication,Investigations,Treatment_plan,Department,Cross_consultation_department
+P4476133,Ainsley Tomczak,D2033338,Pecan Pollen,0TL70CZ,0YQY3ZZ,Urology,Pediatrics
+P2315779,Amalie Goymer,D2875788,Olanzapine,047Q046,04HJ43Z,Anesthesiology,Ophthalmology
+P9601757,Berry Limmer,D1981596,SHISEIDO PURENESS MATIFYING COMPACT OIL-FREE (REFILL),0YPB01Z,2W11X7Z,ENT,General Surgery
+P0012049,Courtney Rowcastle,D3503932,Macular Degeneration,0FWG42Z,BH4CZZZ,Ophthalmology,Pediatrics
+P5379130,Daryl Lack,D5539911,Standardized Grass Pollen,0V9S0ZZ,0P583ZZ,ENT,Urology
+P4439966,Davey Kirkby,D9473731,Bacteria Combination,0VB73ZX,09CB3ZZ,Pediatrics,Oncology
+P9017191,Dore Saffer,D5539911,Epinephrine,0DL33DZ,0QQ44ZZ,ENT,Anesthesiology
+P5822351,Doretta Batie,D7234209,Breakout Clearing Cooling Masque,0W990ZZ,0FL53DZ,Ophthalmology,Oncology
+P1226728,Dru Trayhorn,D8246776,Dye-Free Allergy,0SP70KZ,0DFG7ZZ,Haematology,Pediatrics
+P7578993,Errol Watford,D4160370,Thyreoidea Compositum,0DUE77Z,0YH543Z,Anesthesiology,ENT
+P7578993,Errol Watford,D7891011,Sulfamethoxazole,0FL53DZ,0YH543Z,Oncology,Pediatrics
+P5883221,Finley Czapla,D0123456,Warfarin Sodium,0QQ44ZZ,09CB3ZZ,Oncology,Anesthesiology
+P5905776,Fremont Ashmole,D7891011,Clozapine,B51Q0ZZ,0DUE77Z,Oncology,Geriatric
+P5905776,Fremont Ashmole,D0123456,Thyreoidea Compositum,C7551ZZ,0DUE77Z,Oncology,Urology
+P2456839,Gerrard Foffano,D2773133,Equetro,0RUB3JZ,0MUB0KZ,Geriatric,Pediatrics
+P3762059,Haroun Wilman,D9385257,Levothyroxine Sodium,0DFG7ZZ,0QC83ZZ,Geriatric,Geriatric
+P5677442,Heda Peirson,D0123456,Trivora,DB1897Z,BH4CZZZ,Oncology,Cardiology
+P5677442,Heda Peirson,D7234209,PHENTERMINE HYDROCHLORIDE,00BB3ZX,02UJ47G,Ophthalmology,Psychiatry
+P1971106,Hilary Teague,D5567772,ACEPHEN,037Y376,00K84ZZ,Psychiatry,Gastroenterology
+P5099866,Ilaire Weson,D1342946,Irinotecan Hydrochloride,03U60KZ,037Y376,Haematology,Psychiatry
+P1748989,Jessie Bucham,D6499980,hand sanitizer,0HRKXK3,2W11X7Z,Orthopaedic,Haematology
+P6465494,Kizzee Kopisch,D5253361,Lotrimin Ultra Jock Itch,0QQ44ZZ,0MUB0KZ,Geriatric,Neurology
+P9553831,Marsiella Chadwen,D1342946,Gas Relief,0PR44JZ,047Q046,Haematology,Ophthalmology
+P4721857,Merrill Rawdall,D2907118,Grama Grass,C7551ZZ,0DL33DZ,Haematology,Anesthesiology
+P3661079,Modestia Demetr,D7891012,ETHYL ALCOHOL,0VB73ZX,0P583ZZ,Oncology,General Surgery
+P3661079,Modestia Demetr,D8370989,Alendronate Sodium,0FL53DZ,0P583ZZ,Haematology,Pediatrics
+P3661079,Modestia Demetr,D7891011,CAFFEINE CITRATE,C7551ZZ,0FL53DZ,Oncology,Psychiatry
+P0162098,Orelia Sharman,D3899436,Date Palm Pollen,00BB3ZX,00QF4ZZ,Gastroenterology,Cardiology
+P9124832,Rasia Pales,D0804374,Nefazodone Hydrochloride,04U54JZ,0HRKXK3,Ophthalmology,Anesthesiology
+P8138863,Shermie Mapston,D6985522,HYDROXYZINE PAMOATE,DB1897Z,00K84ZZ,Neurology,Gastroenterology
+P1822809,Sloan Simison,D8648864,Curvularia,00QF4ZZ,0YQY3ZZ,Orthopaedic,Ophthalmology
+P8532522,Stacy Goad,D3899436,Arroyo Willow,0JUF3JZ,037Y376,Gastroenterology,Anesthesiology
+P0498846,Staford Devoy,D2654661,Clomipramine Hydrochloride,0RWQX4Z,00BB3ZX,Psychiatry,Pediatrics
+P3010751,Westbrooke Stripling,D0804374,Livergen,0SU307Z,0SP70KZ,Ophthalmology,Orthopaedic
+P9472604,Xerxes Tendahl,D6085360,Testosterone Enanthate,02UJ47G,BH4CZZZ,Pediatrics,Urology
